@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928971158121",
+    "project_id": "technocellagendamento",
+    "storage_bucket": "technocellagendamento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928971158121:android:25d0a6286a8bbd66e568f8",
+        "android_client_info": {
+          "package_name": "com.example.appdouglas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmLzFYk8Qa-Im6OlWg_8E3HRkKxZXnJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
